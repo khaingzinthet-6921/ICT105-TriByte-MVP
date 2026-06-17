@@ -8,3 +8,13 @@
 | SmartStudy Planner | Students forget deadlines, quizzes, and exams, and struggle to organize study schedules across courses | University students | Google Calendar, paper planners, reminder apps requiring manual entry | Web app + cloud database for courses/deadlines, notification system, user authentication |
 | ClassBuddy Notes Exchange | Students miss classes and find it hard to get lecture notes/materials afterward | University students | Asking classmates, searching group chats or online platforms, time-consuming and inconsistent | Web app + cloud storage for documents, database for courses/resources, user authentication |
 | Campus Events Hub | Students miss campus events, workshops, club activities, and career fairs since info is spread across emails, posters, and social media | University students, student clubs, university organizations | University emails, social media pages, physical announcements, hard to find or track | Web app + cloud-based database, event management system, notification and reminder features |
+
+## Technology Feasibility Mapping
+| Idea | Prototype Type | Tools Needed | Data Needed | Difficulty | Feasible? |
+|---|---|---|---|---|---|
+| Idea 1 (HallPass) | Simple landing page or web app prototype | HTML/CSS/JavaScript + Google Forms + Google Sheets | Sample dorm/cafeteria reviews and ratings | Low | Yes |
+| Idea 2 (CampusMarket) | Simple no-code database prototype | Airtable / Notion Database | Sample item listings: title, price, photo, seller | Low | Yes |
+| Idea 3 (StudyMatch) | Simple no-code database prototype | Google Forms + Google Sheets Dashboard | Course codes and student availability | Low | Yes |
+| Idea 4 (SmartStudy Planner) | Simple landing page or web app prototype | Google Forms + Google Sheets | Sample course deadlines and assignment due dates | Low | Yes |
+| Idea 5 (ClassBuddy Notes Exchange) | Simple no-code database prototype | Airtable / Notion Database | Sample uploaded notes: course, file link, rating | Low | Yes |
+| Idea 6 (Campus Events Hub) | Pitch, mockup, and simple visual prototype | Canva / PowerPoint + Google Sheets Dashboard | Sample event list: name, date, organizer, RSVP count | Medium | Yes |
