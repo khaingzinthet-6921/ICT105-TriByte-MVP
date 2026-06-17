@@ -1,1 +1,10 @@
-
+## Lab 02 Opportunity Scanning
+## Ideas Reviewed from Lab 1
+| Idea | Problem Area | Target User | Current Alternative | Initial Technology Direction |
+|---|---|---|---|---|
+| HallPass | Int'l students lack honest dorm/cafeteria reviews and basic settling-in info | International students starting university for the first time | Asking friends, Google searches, university websites that aren't always honest, up to date, or student-written | Web app + cloud-based storage for reviews and user data |
+| CampusMarket | No safe, student-only platform to buy/sell second-hand items like textbooks, laptops, furniture | All university students, especially new and budget-conscious students | Facebook Marketplace, Carousell, open to the public with no student verification | Web app + cloud-based storage for listings and user accounts |
+| StudyMatch | Hard to find study partners or groupmates in the same course, students end up studying alone | Students wanting study groups or project partners | LINE/Discord groups, manually set up with no auto-matching | Web app + cloud-based storage for profiles and match data |
+| SmartStudy Planner | Students forget deadlines, quizzes, and exams, and struggle to organize study schedules across courses | University students | Google Calendar, paper planners, reminder apps requiring manual entry | Web app + cloud database for courses/deadlines, notification system, user authentication |
+| ClassBuddy Notes Exchange | Students miss classes and find it hard to get lecture notes/materials afterward | University students | Asking classmates, searching group chats or online platforms, time-consuming and inconsistent | Web app + cloud storage for documents, database for courses/resources, user authentication |
+| Campus Events Hub | Students miss campus events, workshops, club activities, and career fairs since info is spread across emails, posters, and social media | University students, student clubs, university organizations | University emails, social media pages, physical announcements, hard to find or track | Web app + cloud-based database, event management system, notification and reminder features |
